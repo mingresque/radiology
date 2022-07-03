@@ -2,7 +2,7 @@
 
 .dr_lazo chest
 Hyperaerated lungs with no focal abnormal opacities; Correlate with clinical findings
-*
+-
 Lungs are hyperaerated and clear. Hemidiaphragms are low-set and flattened.
 
 
@@ -10,7 +10,7 @@ Lungs are hyperaerated and clear. Hemidiaphragms are low-set and flattened.
 
 .dr_lazo chest
 Consider right mid non-resolving pneumonia, residual fibrosis and/or atelectasis; correlate with clinical and laboratory findings
-*
+-
 Lungs are well-aerated again exhibiting right mid ill-defined focal hyperdensity.
 
 
