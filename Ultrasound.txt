@@ -1,0 +1,177 @@
+
+
+.dr_lazo mod_us part_chest
+RIGHT-SIDED PLEURAL EFFUSION, AS DETAILED, WITH RESULTANT ADJACENT LOWER LUNG PASSIVE ATELECTASIS 
+-
+There is ultrasound evidence of right-sided non-loculated pleural fluid amounting to approximately __ cc. Adjacent lower lung segments show volume loss.
+No evident pleural fluid is notable in the left.
+
+.mod_us part_wab
+OBSCURED PANCREAS DUE TO OVERLYING BOWEL GAS. RE SCAN MAY BE DONE WITH WATER- LOADING TECHNIQUE ( FREE OF CHARGE )
+-
+The pancreas is obscured by overlying bowel gas.
+
+
+.mod_us part_wab
+MILD FATTY INFILTRATION OF THE LIVER WITH AREAS OF FOCAL SPARING IN THE PERIPORTAL REGION
+-
+The liver is not enlarged with span of __(<15.5) showing mild increased parenchymal echopattern. Areas of focal sparing is seen in the periportal region.
+
+.mod_us part_wab
+NORMAL SIZED LIVER WITH MILD PATCHY FATTY INFILTRATION
+-
+The liver is not enlarged with liver span of __(<15.5) showing mild patchy areas of increased parenchymal echopattern.*
+
+.mod_us part_wab
+MILD FATTY LIVER
+-
+The liver is normal in size with span of __(<15.5) cm again showing mildly increased parenchymal reflectivity.
+
+.mod_us part_wab
+NON - SPECIFIC HEPATOMEGALY WITH MILD FATTY INFILTRATION
+-
+The liver is enlarged with a span of __(<15.5) cm exhibiting diffuse mild increase in parenchymal echopattern.*
+
+.mod_us part_wab
+HEPATOMEGALY, WITH MODERATE FATTY INFILTRATION
+-
+The liver is enlarged with liver span of __(<15.5) cm exhibiting moderately increased parenchymal echogenicity.
+
+.mod_us part_wab
+CIRRHOTIC LIVER
+-
+The liver is not enlarged with span of __(<15.5) cm showing heterogenous parenchymal echopattern with irregular border reflective of cirrhotic changes.
+
+
+
+
+
+SMALL HYPERECHOIC FOCUS IN THE __ HEPATIC LOBE PROBABLY A HEMANGIOMA 
+-
+A hyperechoic focus is noted in the __ lobe measuring 0.2 x 0.4 x 0.5 cm.
+
+LEFT HEPATIC LOBE CYST
+-
+A cyst is seen in the __ lobe measuring 1.1 x 1.3 x 1.3 cm. Color Doppler application shows minimal intra- and perilesional vascularity.
+
+MULTIPLE VARI-SIZED HYPERECHOIC NODULARITIES ATTRIBUTED TO THE TUMOR FOCI BETTER SEEN IN THE PRIOR MRI STUDY
+-
+Multiple vari-sized hyperechoic nodularities are seen in both lobes of the liver, the largest of which measures 3.1 x 2.6 x 3 cm.
+
+
+CONTRACTED GALLBLADDER PROBABLY REACTIVE
+-
+The gallbladder is contracted.
+
+
+CHOLECYSTOLITHIASIS
+-
+The gallbladder shows an intraluminal shadowing echogenicity measuring __ cm, relating to a lithiasis.
+
+BILIARY SLUDGE
+-
+The gallbladder is well visualized showing layering non-shadowing echoes.
+
+Cholelithiasis and gallbladder sludge
+-
+The gallbladder shows a shadowing echogenicity in the neck measuring 0.6 cm. Medium level echoes are also seen.
+
+
+GALLBLADDER POLYP AND BILE SLUDGE
+-
+The gallbladder is well-visualized with an intraluminal nonmobile nonshadowing echogenicity measuring 0.5 cm. Layering nonshadowing echoes, representing bile sludge are also visualized in the gallbladder neck.
+
+
+GALLBLADDER POLYP OR SLUDGE BALL ADMIXED WITH BILIARY SLUDGE
+-
+The gallbladder is well-visualized showing  a solitary intraluminal non-shadowing echogenicity, the largest measuring 0.7 cm (previously 0.5 cm), admixed with layering medium level echoes reflective of biliary sludge.
+
+
+.dr_lazo
+CHOLECYSTOLITHIASES AND GALLBLADDER POLYPS AND/OR SLUDGE BALLS 
+-
+The gallbladder is well-visualized showing multiple shadowing and non-shadowing intraluminal echoes. The largest shadowing echo measures 0.6 cm, while the largest non-shadowing focus measures 0.4 cm.
+
+
+
+
+CHOLELITHIASES AND GALLBLADDER POLYPS &/OR SLUDGE BALLS
+-
+The gallbladder is partially contracted again showing intraluminal shadowing echogenicity measuring 0.7 cm (previously 0.6 cm). Intraluminal non-shadowing echogenicities (polyps and/or sludge balls) are also again demonstrated.
+
+
+
+THICKENED GALLBALDDER WALL MAY SUGGEST CHOLECYSTITIS
+-
+The wall is thickened and edematous.
+
+
+MALROTATED RIGHT KIDNEY 
+-
+The right kidney is again noted to be malrotated.
+
+CORTICAL BULGE OR PROMINENCE AT THE LEFT KIDNEY, LIKELY A DROMEDARY HUMP
+-
+A cortical bulge or prominence is noted at the left kidney, likely relating to a dromedary  hump.
+
+
+__ RENAL NON-SPECIFIC MILD PELVIC FULLNESS; CORRELATE CLINICALLY.
+-
+There is mild dilatation of the __ renal pelvis.
+
+NON-SPECIFIC MILD PELVOCALIECTASIA, __ KIDNEY
+-
+Non-specific mild fullness of the __ pelvocalyceal complex.
+
+
+BILATERAL RENAL CYSTS
+-
+Subcentimeter cysts are seen in both kidneys.*
+
+
+_ RENAL CYST
+-
+A cyst is noted in the __ third of the __ kidney measuring 3.1__ x 2.7__ x 3.4__ cm (previously 3.3 x 3.4 x 3.6 cm).
+
+STABLE_ RENAL CYST
+-
+A cyst is again noted in the __ third of the __ kidney measuring 3.1__ x 2.7__ x 3.4__ cm (previously 3.3 x 3.4 x 3.6 cm).
+
+
+
+Incidental note of a single live intrauterine pregnancy.
+-
+Incidental note of a single live intrauterine pregnancy with cardiac activity (fetal heart rate of 154 bpm).
+
+
+
+PROSTATIC CONCRETIONS
+-
+The prostate gland measures 3.5 x 3.3 x 3.8 cm with approximate weight of 23 grams (previously 14 grams) with calcifications noted within its substance.
+
+ENLARGED PROSTATE GLAND WITH SPARSE CONCRETIONS
+-
+The prostate gland measures 3.6 x 4.1 x 4.1 cm ( 32 grams) with sparse calcifications seen within its substance.
+
+ENLARGED PROSTATE GLAND WITH CONCRETIONS
+-
+The prostate gland is enlarged measuring approximately 3.6 x 4.2 x 4.3 cm (34 grams) with calcifications noted within its substance.*
+
+
+MILD URINARY BLADDER WALL THICKENING MAY SUGGEST CYSTITIS. CLINICAL AND LABORATORY CORRELATION RECOMMENDED
+-
+The urinary bladder is well distended with mild wall thickening. No evident intravesical echoes is noted.
+
+
+
+MODERATE URINARY RETENTION OF 22%
+-
+Pre-void volume measures 331 cc while post-void study shows 74 cc (22%) of residual urine.
+
+
+SIGNIFICANT RESIDUAL URINE
+-
+The prevoid volume measures 493 cc and post-void volume of 190 (39%) cc.
+
+
+
