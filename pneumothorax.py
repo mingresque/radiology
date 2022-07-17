@@ -1,6 +1,6 @@
 #@title Pneumothorax { vertical-output: true, display-mode: "form" }
-def pneumothorax(values:str):
-  
+def pneumothorax(values: str):
+  assert isinstance(values, str), "Argument should be a string."
   array = values.split()
   while len(array) < 3:
     array += [0]
@@ -13,4 +13,4 @@ def pneumothorax(values:str):
   
   return ''
 
-pneumothorax('0.7')
+pneumothorax("1 2 3")
