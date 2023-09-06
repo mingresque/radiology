@@ -18,15 +18,20 @@
 "fatspar" : "with focal fat-sparing at the pericholecystic region.\nwith focal pericholecystic fat-sparing",
 
 "ctgb" : "The adequately distended gallbladder shows no calcified cholelithiasis or wall thickening. Common bile duct is not dilated.",
-"chole" : "The gallbladder is surgically absent.",
-"gbstone" : "The adequately distended gallbladder shows an intraluminal lithiasis, measuring _ x _ (APxT) at its _ region.",
+"chole" : "The gallbladder is surgically absent.\nStatus-post cholecystectomy",
+"gbstone" : "The adequately distended gallbladder shows an intraluminal lithiasis, measuring _ x _ (APxT) at its _ region. No wall thickening or pericholecystic edema.\nCholelithiasis",
+"gbstones" : "The adequately distended gallbladder shows intraluminal lithiases, with the largest measuring _ x _ (APxT) at its _ region. No wall thickening or pericholecystic edema.\nCholelithiases",
 
 "ctkid0" : "Both kidneys are normal in size without calcified nephrolithiasis or hydronephrosis. Ureters are not dilated. Perinephric spaces are clear.",
 "ctkid1" : "Both kidneys are normal in size, with symmetric and prompt nephrogram enhancement. No calcified nephrolithiasis or hydronephrosis. Ureters are not dilated. Perinephric spaces are clear.",
 "ctkid2" : "Both kidneys are normal in size. The right kidney measures _ x _ x _ (AP x T x CC), while the left kidney measures _ x _ x _. No calcified nephrolithiasis or hydronephrosis is identified. Ureters are not dilated.",
 "perineph" : "There are mild perinephric fat stranding densities on both sides.",
+
 "ctub" : "The adequately distended urinary bladder shows no abnormal intravesical density or wall thickening.",
+
 "ctpros" : "The prostate gland is not enlarged.",
+"ctproscon" : The prostate gland is not enlarged with concretions in its central gland.\nNormal-sized prostate gland with concretions.",
+"ctpros1" : "The prostate gland is mildly enlarged, measuring _ x _ x _ cm (APxTxCC).\nMildly enlarged prostate gland",
 
 "ctbowel" : "Bowel gas pattern is non-obstructive. The visualized gastrointestinal tract, including the normal-sized appendix, is unremarkable. Mesentery is not hazy.",
 "divert" : "Multiple diverticula are seen from the ascending to sigmoid colon.",
@@ -45,9 +50,12 @@
 "penia" : " Bone density is decreased, reflective of osteopenia.\nOsteopenia",
 "doc" : "Spurs are seen along the vertebral margins.\nOsteodegenerative changes",
 "doc2" : "Degenerative osseous changes are seen in the form of vertebral spurs and Schmorl nodes.",
-"island" : "Small sclerotic foci, probably bone islands, are seen in the ___.",
+"island" : "A small sclerotic focus, probably a bone island, is seen in the ___.\nProbable bone island, _"
+"islands" : "Small sclerotic foci, probably bone islands, are seen in the ___.\nProbable bone islands, _",
 
-"herniaum" : "There is a fat-containing umbilical hernia with neck transverse diameter of __ cm.",
+"herniaum" : "There is a fat-containing umbilical hernia with neck transverse diameter of __ cm.\nFat-containing inguinal hernia",
+"herniahiatal" : "A small hiatal hernia is seen.\nSmall hiatal hernia",
+"herniainguinal" : "There is a _-sided fat-containing inguinal hernia.\n_-sided inguinal hernia"
 
 "ctlung" : "Imaged lung bases are clear.",
 "subseg" : "Subsegmental atelectasis and/or fibrosis are seen in the imaged __ .",
