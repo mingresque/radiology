@@ -1,0 +1,56 @@
+
+
+{
+"test" : ":::wab1,,hepfat2,,doc",
+"wab0" : ":::cthep0,,ctgb,,ctkid0,,ctub,,ctbowel,,others",
+"up0" : ":::cthep0,,ctgb,,ctkid0,,ctp,,ctsa,,ctln,,ctbowel,,ctwabimpress",
+"wab1" : ":::cthep1,,ctgb,,ctkid1,,ctub,,ctbowel,,others",
+"stono" : ":::ctkid2,,ctub,,cthep2,,ctgb,,others",
+"others" : ":::ctp,,ctsa,,ctln,,ctvessel,,ctbone,,ctlung,,ctwabimpress",
+
+"cthep0" : "The liver is not enlarged. It exhibits smooth contour and normal parenchymal attenuation. No discrete mass lesion seen. The intrahepatic and extrahepatic ducts are not dilated.",
+"cthep1" : "The liver is not enlarged. It exhibits smooth contour and normal parenchymal attenuation. The intrahepatic and extrahepatic bile ducts are not dilated. No enhancing mass lesion seen. Portal vein is patent.",
+"cthep2" : "The visualized liver shows no discrete mass lesion. Parenchymal attenuation is within normal limits. The intrahepatic and extrahepatic ducts are not dilated.",
+"hepmeg" : "The liver is enlarged, with craniocaudal span of ___ cm along the right midclavicular plane\nHepatomegaly",
+"hepfat1" : "Parenchymal attenuation is decreased, reflective of mild steatosis.\nMild hepatic steatosis",
+"hepfat2" : "Parenchymal attenuation is decreased, reflective of moderate steatosis.\nModerate hepatic steatosis",
+"hepfat3" : "Parenchymal attenuation is decreased, reflective of severe steatosis.\nSevere hepatic steatosis",
+"fatspar" : "with focal fat-sparing at the pericholecystic region.\nwith focal pericholecystic fat-sparing",
+
+"ctgb" : "The adequately distended gallbladder shows no calcified cholelithiasis or wall thickening. Common bile duct is not dilated.",
+"chole" : "The gallbladder is surgically absent.",
+"gbstone" : "The adequately distended gallbladder shows an intraluminal lithiasis, measuring _ x _ (APxT) at its _ region.",
+
+"ctkid0" : "Both kidneys are normal in size without calcified nephrolithiasis or hydronephrosis. Ureters are not dilated. Perinephric spaces are clear.",
+"ctkid1" : "Both kidneys are normal in size, with symmetric and prompt nephrogram enhancement. No calcified nephrolithiasis or hydronephrosis. Ureters are not dilated. Perinephric spaces are clear.",
+"ctkid2" : "Both kidneys are normal in size. The right kidney measures _ x _ x _ (AP x T x CC), while the left kidney measures _ x _ x _. No calcified nephrolithiasis or hydronephrosis is identified. Ureters are not dilated.",
+"perineph" : "There are mild perinephric fat stranding densities on both sides.",
+"ctub" : "The adequately distended urinary bladder shows no abnormal intravesical density or wall thickening.",
+"ctpros" : "The prostate gland is not enlarged.",
+
+"ctbowel" : "Bowel gas pattern is non-obstructive. The visualized gastrointestinal tract, including the normal-sized appendix, is unremarkable. Mesentery is not hazy.",
+"divert" : "Multiple diverticula are seen from the ascending to sigmoid colon.",
+"ctbowelrest" : "The rest of the visualized gastrointestinal tract is unremarkable.",
+
+"ctpsa" : "The pancreas, spleen and both adrenal glands are normal in size without discrete lesion.",
+"ctp" : "The pancreas is normal in size without focal enlargement or density change. The pancreatic duct is not dilated. Peripancreatic fat planes are not hazy.",
+"ctsa" : "The spleen and both adrenal glands are normal in size without discrete lesion.",
+
+"smallpanc" : "There is fatty involution of the pancreas.",
+"ctln" : "No enlarged lymph nodes. No ascites or pneumoperitoneum.",
+"ctvessel" : "Abdominal aorta is normal in caliber.",
+"ctatheros" : "Abdominal aorta is normal in caliber, with intimal calcifications extending to its bilateral ilio-femoral branches.\nAtherosclerotic vessel disease",
+
+"ctbone" : "The osseous structures are unremarkable.",
+"penia" : " Bone density is decreased, reflective of osteopenia.\nOsteopenia",
+"doc" : "Spurs are seen along the vertebral margins.\nOsteodegenerative changes",
+"doc2" : "Degenerative osseous changes are seen in the form of vertebral spurs and Schmorl nodes.",
+"island" : "Small sclerotic foci, probably bone islands, are seen in the ___.",
+
+"herniaum" : "There is a fat-containing umbilical hernia with neck transverse diameter of __ cm.",
+
+"ctlung" : "Imaged lung bases are clear.",
+"subseg" : "Subsegmental atelectasis and/or fibrosis are seen in the imaged __ .",
+"gravdep" : "Gravity-dependent atelectasis is noted in both lower lobes.",
+"ctwabimpress" : "IMPRESSION:\n\nNo demonstrable acute abdomino-pelvic pathology\n\nOther findings, as detailed above"
+}
