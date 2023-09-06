@@ -55,7 +55,7 @@
 
 "herniaum" : "There is a fat-containing umbilical hernia with neck transverse diameter of __ cm.\nFat-containing inguinal hernia",
 "herniahiatal" : "A small hiatal hernia is seen.\nSmall hiatal hernia",
-"herniainguinal" : "There is a _-sided fat-containing inguinal hernia.\n_-sided inguinal hernia"
+"herniainguinal" : "There is a _-sided fat-containing inguinal hernia.\n_-sided inguinal hernia",
 
 "ctlung" : "Imaged lung bases are clear.",
 "subseg" : "Subsegmental atelectasis and/or fibrosis are seen in the imaged __ .",
