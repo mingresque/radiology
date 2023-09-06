@@ -30,7 +30,7 @@
 "ctub" : "The adequately distended urinary bladder shows no abnormal intravesical density or wall thickening.",
 
 "ctpros" : "The prostate gland is not enlarged.",
-"ctproscon" : The prostate gland is not enlarged with concretions in its central gland.\nNormal-sized prostate gland with concretions.",
+"ctproscon" : "The prostate gland is not enlarged with concretions in its central gland.\nNormal-sized prostate gland with concretions.",
 "ctpros1" : "The prostate gland is mildly enlarged, measuring _ x _ x _ cm (APxTxCC).\nMildly enlarged prostate gland",
 
 "ctbowel" : "Bowel gas pattern is non-obstructive. The visualized gastrointestinal tract, including the normal-sized appendix, is unremarkable. Mesentery is not hazy.",
