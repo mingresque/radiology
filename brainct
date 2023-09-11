@@ -4,40 +4,29 @@
 
 
 
-The visualized paranasal sinuses and petromastoids are adequately aerated and clear.
-
-The osseous structures are intact.
-
-IMPRESSION:
-
-No evident acute territorial infarct, acute intracranial hemorrhage, or focal mass lesion. Follow-up MRI may be done, if clinically indicated
 
 
 {
-"test" : ":::wab1s,,hepfat2,,doc",
-"wab0" : ":::cthep0,,ctgb,,ctkid0,,ctub,,ctbowel,,others",
-"up0" : ":::cthep0,,ctgb,,ctkid0,,ctp,,ctsa,,ctln,,ctbowel,,ctwabimpress",
-"wab1" : ":::cthep1,,ctgb,,ctkid1,,ctub,,ctbowel,,others",
-"stono" : ":::ctkid2,,ctub,,cthep2,,ctgb,,others",
-"others" : ":::ctp,,ctsa,,ctln,,ctvessel,,ctbone,,ctlung,,ctwabimpress",
-Patchy white matter hypodensities are seen in both cerebral hemispheres which may relate to microvascular ischemic changes, gliosis and/or demyelination. 
-Inhomogenous white matter hypodensities may relate to microvascular ischemic changes, gliosis and/or demyelination
+"brain0" : ":::ct1,,ct2,,ct3,,ct4,,bone0,,ct6",
+"brain1" : ":::ctfrac,,ct2,,ct3,,ct4,,ct7",
+
 
 "ct1" : "There is no evident acute territorial infarct, acute intracranial hemorrhage, or focal mass lesion.",
-"ct2" : "The ventricles are normal in size and configuration. The cisterns and sulci are not effaced. Midline structures are in place."
-"ct3" : "The cavernous sinuses are symmetrical. The sella and suprasellar regions are intact. The brainstem and cerebellum show no frank density change."
-"ct4: 
+"ct2" : "The ventricles are normal in size and configuration. The cisterns and sulci are not effaced. Midline structures are in place.",
+"ct3" : "The cavernous sinuses are symmetrical. The sella and suprasellar regions are intact. The brainstem and cerebellum show no frank density change.",
+"ct4: : "The visualized paranasal sinuses and petromastoids are adequately aerated and clear.",
+"bone0" : "The osseous structures are intact.",
+"ct6" : "IMPRESSION:\n\nNo evident acute territorial infarct, acute intracranial hemorrhage, or focal mass lesion. Follow-up MRI may be done, if clinically indicated",
+"ct7" : "IMPRESSION:\n\nNo evident acute intracranial hemorrhage, discrete calvarial fracture, or significant scalp swelling",
+
+"ctfrac" : "There is no evident acute intracranial hemorrhage, discrete calvarial fracture, or significant scalp swelling.\n\nThere is no evident acute territorial infarct.",
+
+"hypo0" : "Patchy white matter hypodensities are seen in both cerebral hemispheres which may relate to microvascular ischemic changes, gliosis and/or demyelination.\nInhomogenous white matter hypodensities may relate to microvascular ischemic changes, gliosis and/or demyelination",
+
+"vol0" : "Prominence of the ventricles and extraaxial spaces may represent mild cerebral volume loss.\nCerebral volume loss",
+"vol1" : "Prominence of the ventricles and extraaxial spaces including the interfolial spaces may represent mild cerebral and cerebellar volume loss.\nMild cerebral and cerebellar volume loss",
 
 "ctica" : "Intimal calcifications are seen in the cavernous segments of both internal carotid arteries.\nAtherosclerotic intracranial vessel disease",
 "ctica2" : "Atherosclerotic calcifications are seen in the cavernous segments of both internal carotid arteries.\nAtherosclerotic intracranial vessel disease"
 
-
-"herniaum" : "There is a fat-containing umbilical hernia with neck transverse diameter of __ cm.\nFat-containing inguinal hernia",
-"herniahiatal" : "A small hiatal hernia is seen.\nSmall hiatal hernia",
-"herniainguinal" : "There is a _-sided fat-containing inguinal hernia.\n_-sided inguinal hernia",
-
-"ctlung" : "Imaged lung bases are clear.",
-"subseg" : "Subsegmental atelectasis and/or fibrosis are seen in the imaged __ .",
-"gravdep" : "Gravity-dependent atelectasis is noted in both lower lobes.",
-"ctwabimpress" : "IMPRESSION:\n\nNo demonstrable acute abdomino-pelvic pathology\n\nOther findings, as detailed above"
 }
