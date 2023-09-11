@@ -7,8 +7,8 @@
 
 
 {
-"brain0" : ":::ct1,,ct2,,ct3,,ct4,,bone0,,ct6",
-"brain1" : ":::ctfrac,,ct2,,ct3,,ct4,,ct7",
+"brain0" : "::ct1,ct2,ct3,ct4,,bone0,ct6",
+"brain1" : "::ctfrac,ct2,ct3,ct4,ct7",
 
 
 "ct1" : "There is no evident acute territorial infarct, acute intracranial hemorrhage, or focal mass lesion.",
