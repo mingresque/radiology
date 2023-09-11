@@ -1,12 +1,12 @@
 
 
 {
-"test" : ":::wab1s,,hepfat2,,doc",
-"wab0" : ":::cthep0,,ctgb,,ctkid0,,ctub,,ctbowel,,others",
-"up0" : ":::cthep0,,ctgb,,ctkid0,,ctp,,ctsa,,ctln,,ctbowel,,ctwabimpress",
-"wab1" : ":::cthep1,,ctgb,,ctkid1,,ctub,,ctbowel,,others",
-"stono" : ":::ctkid2,,ctub,,cthep2,,ctgb,,others",
-"others" : ":::ctp,,ctsa,,ctln,,ctvessel,,ctbone,,ctlung,,ctwabimpress",
+"test" : ":wab1s,hepfat2,doc",
+"wab0" : ":cthep0,ctgb,ctkid0,ctub,ctbowel,others",
+"up0" : ":cthep0,ctgb,ctkid0,ctp,ctsa,ctln,ctbowel,ctwabimpress",
+"wab1" : ":cthep1,ctgb,ctkid1,ctub,ctbowel,others",
+"stono" : ":ctkid2,ctub,cthep2,ctgb,others",
+"others" : ":ctp,ctsa,ctln,ctvessel,ctbone,ctlung,ctwabimpress",
 
 "cthep0" : "The liver is not enlarged. It exhibits smooth contour and normal parenchymal attenuation. No discrete mass lesion seen. The intrahepatic and extrahepatic ducts are not dilated.",
 "cthep1" : "The liver is not enlarged. It exhibits smooth contour and normal parenchymal attenuation. The intrahepatic and extrahepatic bile ducts are not dilated. No enhancing mass lesion seen. Portal vein is patent.",
